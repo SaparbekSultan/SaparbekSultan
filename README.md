@@ -1,5 +1,6 @@
-## Hi, there! I am the Sultan!
-
+## What's up?
+I am Sultan, and here you may see some of my repositories dedicated, mostly, to Mobile Robotics, Vision, Autonomous Navigation and so on. 
+But I hope, you'll see other repositories then.
 <!--
 **SaparbekSultan/SaparbekSultan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
